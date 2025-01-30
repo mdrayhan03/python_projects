@@ -1,0 +1,11 @@
+Sleep[ST:(1, 15, 'AM'), ET:(8, 15, 'AM')]
+Hospital[ST:(8, 30, 'AM'), ET:(12, 30, 'AM')]
+Take bath[ST:(1, 0, 'AM'), ET:(1, 10, 'AM')]
+Lunch[ST:(1, 21, 'AM'), ET:(1, 41, 'AM')]
+Take rest[ST:(1, 45, 'AM'), ET:(3, 45, 'AM')]
+Tution[ST:(4, 0, 'AM'), ET:(8, 45, 'AM')]
+Enjoying[ST:, ET:]
+Nothing
+Something[ST:(12, 59, 'AM')]
+Anything[ST:(12, 59, 'AM'), ET:(12, 59, 'AM')]
+Like[ET:(12, 59, 'AM')]
